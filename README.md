@@ -1,4 +1,4 @@
-# Run the following Commands in terminal to run the project
+# Follow the Commands to run the project
 
 1. cd frontend
 2. json-server --watch data/data.json  --port 8000.
